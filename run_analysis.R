@@ -21,14 +21,14 @@
     }
     
 ## Assigning All The Data Frames
-    features <- features.txt
-    activitiesLabels <- activity_labels.txt
-    subjectTest <- test/subject_test.txt
-    xTest <- test/x_test.txt
-    yTest <- test/y_test.txt
-    subjectTrain <- test/subject_train.txt
-    xTrain <- test/X_train.txt
-    yTrain <- test/y_train.txt
+    features <- "features.txt"
+    activitiesLabels <- "activity_labels.txt"
+    subjectTest <- "subject_test.txt"
+    xTest <- "x_test.txt"
+    yTest <- "y_test.txt"
+    subjectTrain <- "subject_train.txt"
+    xTrain <- "X_train.txt"
+    yTrain <- "y_train.txt"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tyding Up The Data Set
